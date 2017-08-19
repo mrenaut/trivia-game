@@ -14,12 +14,12 @@ THIS RICK AND MORTY TRIVIA GAME IS A SIMPLE EXERCISE IN JAVASCRIPT INTERVALS FOR
 2. FILL IN THE BUBBLE BY CLICKING IN THE FORM NEXT TO THE CORRECT ANSWER
 3. CLICK SUBMIT WHEN YOU HAVE FINISHED ANSWERING THE QUESTIONS.  IF YOU RUN OUT OF TIME, A POP UP WINDOW WILL DISPLAY, INFORMING YOU THAT YOUR TIME IS UP.
 
-Live Link [link](https://mrenaut.github.io/trivia-game/).
+[Click here to go to the live link](https://mrenaut.github.io/trivia-game/).
 
 
-IMAGES
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+SCREENSHOT FROM GAME
+![rick and morty background with trivia instructions](/images/screenshot1.jpg)
+
 
 
 
