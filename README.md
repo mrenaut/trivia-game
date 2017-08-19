@@ -32,4 +32,6 @@ SCREENSHOT FROM GAME
 ![alt text](screenshot1.jpg)
 
 
-![Alt text](assets/images/screenshot1.jpg?raw=true "Optional Title")
+![Alt text](/assets/images/screenshot1.jpg?raw=true "Optional Title")
+![Alt text](./assets/images/screenshot1.jpg?raw=true "Optional Title")
+![Alt text](screenshot1.jpg?raw=true "Optional Title")
