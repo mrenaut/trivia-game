@@ -2,7 +2,7 @@
 RICK AND MORTY TIMED TRIVIA GAME
 ===
 
-Trivia game demonstrating JavaScript intervals, html forms and responsive design.
+Trivia game demonstrating JavaScript intervals, HTML forms and responsive design.
 ---
 
 THIS RICK AND MORTY TRIVIA GAME IS A SIMPLE EXERCISE IN JAVASCRIPT INTERVALS FOR TIMING FUNCTIONS, HTML FORMS AND RESPONSIVE DESIGN USING CSS AND BOOTSTRAP.
