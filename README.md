@@ -20,7 +20,7 @@ THIS RICK AND MORTY TRIVIA GAME IS A SIMPLE EXERCISE IN JAVASCRIPT INTERVALS FOR
 SCREENSHOT FROM GAME
 <!--[rick and morty background with trivia instructions](/images/screenshot1.jpg)-->
 
-![alt text](/images/screenshot1.jpg "Description goes here")
+![alt text](/assets/images/screenshot1.jpg "Description goes here")
 
 
 
