@@ -9,9 +9,22 @@ body {
 	background-color: black;
 }
 
+#header {
+	color: #71e520;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
 
 .btn-group-vertical {
 	width: 100%;
 }
  
+#startButton {
+	margin-top: 10px;
+}
 
