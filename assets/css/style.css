@@ -4,8 +4,13 @@ main {
 	height: 800px;
 }
 
+body {
+	background-color: black;
+}
+
+
 .btn-group-vertical {
 	width: 100%;
 }
-
+ 
 
